@@ -67,11 +67,97 @@ PDF、论文、网页链接、Word，或你和 AI 正在聊的话题——只要
 <tr>
 <td align="center" valign="top">
 <video src="https://github.com/user-attachments/assets/509a21fa-b0b8-4aa2-a534-ef7cba059e77" controls preload="metadata" playsinline width="240"></video>
-<br>恒大 / 许家印
+<p>
+宽幅信息版（默认）<br>
+恒大 / 许家印
+</p>
 </td>
 <td align="center" valign="top">
 <video src="https://github.com/user-attachments/assets/08caf3a7-9d6a-43dd-9e0e-7a121dc6e5c9" controls preload="metadata" playsinline width="240"></video>
-<br>宇树 IPO
+<p>
+宽幅信息版（默认）<br>
+宇树 IPO
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/7b40ba41-a7be-4bcb-a424-145382c85ca0" controls preload="metadata" playsinline width="240"></video>
+<p>
+卡片式<br>
+iPhone Duo / 15999
+</p>
+</td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/13d178dd-e489-412b-8c8c-8addab7ebf20" controls preload="metadata" playsinline width="240"></video>
+<p>
+仪表盘<br>
+英伟达 / 夸张财报
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/53c01fda-81d5-4831-9564-8ffccc21102d" controls preload="metadata" playsinline width="240"></video>
+<p>
+大字报<br>
+缺算力还是饥饿营销
+</p>
+</td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/8f06a5c1-3168-4239-b459-fe574661f07f" controls preload="metadata" playsinline width="240"></video>
+<p>
+卷宗<br>
+韩国 / 发达国家
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/a2e4d15b-ff25-4a42-b028-59de57a9c8f2" controls preload="metadata" playsinline width="240"></video>
+<p>
+瑞士杂志<br>
+DeepSeek / 锁36个月
+</p>
+</td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/d7ebb85e-c073-452b-bf0e-5c62c6af0a0d" controls preload="metadata" playsinline width="240"></video>
+<p>
+黑金电影<br>
+英伟达 / AI基建
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/b920b16a-bf1d-4b7a-ba92-bddfd3e68a05" controls preload="metadata" playsinline width="240"></video>
+<p>
+柔光棱镜<br>
+苹果折叠屏
+</p>
+</td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/d7e2d794-269a-4987-9352-78c1f3f5c685" controls preload="metadata" playsinline width="240"></video>
+<p>
+极简画廊<br>
+DeepSeek × 宇树
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/8118c285-ae47-4165-9bcd-7dd3d184cc71" controls preload="metadata" playsinline width="240"></video>
+<p>
+快讯信息版<br>
+OpenAI暂停Pro
+</p>
+</td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/1c978bd4-ac91-4294-9a6d-2ce3d59b6ce4" controls preload="metadata" playsinline width="240"></video>
+<p>
+人物专栏<br>
+韩国凭什么发达
+</p>
 </td>
 </tr>
 </table>
@@ -96,7 +182,20 @@ PDF、论文、网页链接、Word，或你和 AI 正在聊的话题——只要
 <video src="https://github.com/user-attachments/assets/ce209ddd-5fe4-4208-b840-8dabfa9226f7" controls preload="metadata" playsinline width="240"></video>
 <br>炼金术士
 </td>
-<td></td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/360a505f-f6e8-4cd2-976d-fb181fd3b282" controls preload="metadata" playsinline width="240"></video>
+<br>苹果折叠屏
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/efe7cf03-180d-4500-82b6-37f636efd2f8" controls preload="metadata" playsinline width="240"></video>
+<br>OpenAI暂停Pro
+</td>
+<td align="center" valign="top">
+<video src="https://github.com/user-attachments/assets/9378a3b8-a0a3-448e-a8c4-9bd0f8b1f25d" controls preload="metadata" playsinline width="240"></video>
+<br>韩国凭什么发达
+</td>
 </tr>
 </table>
 </div>
